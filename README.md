@@ -1,6 +1,6 @@
 # CMAF Compliant Writing Real Time Sample
 
-_**Make sure to [read my article](https://nonstrict.eu/blog/2023/avassetwriter-crash-when-using-CMAF/) on AVAssetWriter crashing when using CMAF compliant segments exploring this sample project.**_
+_**Make sure to [read my article](https://nonstrict.eu/blog/2023/avassetwriter-crash-when-using-CMAF/) on AVAssetWriter crashing when using CMAF compliant segments before exploring this sample project.**_
 
 Minimal sample to demonstrate writing out CMAF compliant segments from a real source fails with an error on Intel macs on Ventura.
 
