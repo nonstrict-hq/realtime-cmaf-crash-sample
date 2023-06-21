@@ -1,5 +1,7 @@
 # CMAF Compliant Writing Real Time Sample
 
+_**Make sure to [read my article](https://nonstrict.eu/blog/2023/avassetwriter-crash-when-using-CMAF/) on AVAssetWriter crashing when using CMAF compliant segments exploring this sample project.**_
+
 Minimal sample to demonstrate writing out CMAF compliant segments from a real source fails with an error on Intel macs on Ventura.
 
 The error is in the `AVFoundationErrorDomain` with code `-11800`, containing an underlying error in the `NSOSStatusErrorDomain` with code `-16364`.
